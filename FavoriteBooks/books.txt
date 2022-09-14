@@ -1,0 +1,5 @@
+1,Pride and Prejudice,Romance,Jane Austen,Peabody Award,5,2017,408,In England the early 19th century and the Bennet family which includes five very different sisters.
+2,Crime and Punishment,Crime fiction,Fyodor Dostoyevsky,No award,4,2018,576,Focuses on the mental anguish and moral dilemmas of Rodion Raskolnikov an impoverished ex-student in Saint Petersburg who formulates a plan to kill an unscrupulous pawnbroker for her money.  
+3,The Code of the Woosters,Comic,P. G. Wodehouse,No award,3,2018,224,The adventures of Bertie Wooster and his gentleman’s gentleman Jeeves. 
+4,The Big Sleep,Crime fiction,Raymond Chandler,No award,5,2019,277,Private investigator Philip Marlowe goes to the wealthy General Sternwood's home on a job. 
+5,Things Fall Apart,Historical Fiction,Chinua Achebe,Margaret Wong Memorial Prize,5,2020,242,Okonkwo the leader of an Igbo community from the events leading up to his banishment from the community for accidentally killing a clansman.
